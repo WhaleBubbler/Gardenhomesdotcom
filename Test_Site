@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:salmon">
+
+<h1 style="font-family:comicsansms;">This is a heading</h1>
+<p style="font-family:comicsansms;">This is a paragraph.</p>
+<p style="font-family:comicsansms;"><ins>Hello fellow gamers</ins></p>
+
+</body>
+</html>
